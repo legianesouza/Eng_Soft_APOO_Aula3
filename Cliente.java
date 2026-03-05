@@ -1,4 +1,4 @@
-package main.java;
+package Main.java;
 
 //exemplo de dependencia.
 public class Cliente {
